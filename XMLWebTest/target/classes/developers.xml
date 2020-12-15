@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Developers>
+    <Developer Id="1">
+        <Name>Igor</Name>
+        <Surname>Verushovich</Surname>
+        <Age>20</Age>
+        <Position>Junior Java developer</Position>
+    </Developer>
+    <Developer Id="2">
+        <Name>Nastya</Name>
+        <Surname>Vevich</Surname>
+        <Age>21</Age>
+        <Position>Junior .NET developer</Position>
+    </Developer>
+    <Developer Id="3">
+        <Name>Lyda</Name>
+        <Surname>Anoseva</Surname>
+        <Age>25</Age>
+        <Position>Junior Python developer</Position>
+    </Developer>
+    <Developer Id="4">
+        <Name>Roma</Name>
+        <Surname>Krichevnev</Surname>
+        <Age>34</Age>
+        <Position>Senior Java developer</Position>
+    </Developer>
+</Developers>
